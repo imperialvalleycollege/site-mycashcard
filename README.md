@@ -10,6 +10,12 @@ Attribution for the creator of the original template, David Miller, and the Star
 
 The main photo used in our site is courtesy of Mike Nicholas of Imperial Valley College.
 
+You're welcome to use the image on your own site.
+
+### Using this template for your own project
+
+For the most part, most of this site is reusable, though the logo and card images may need to be updated for your specific school (some of the links would need to be updated too).
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
