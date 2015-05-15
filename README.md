@@ -4,7 +4,7 @@ Minisite for the [IVC MyCashCard](http://mycashcard.imperial.edu/) (for Blackboa
 
 Using the Start Bootstrap Landing Page Template as a starting point, we modified the template for our particular use case to result in the current site.
 
-Attribution for the creator of the original template, David Miller, is located below.
+Attribution for the creator of the original template, David Miller, and the Start Bootstrap website, are located below.
 
 ### Photo Credits
 
